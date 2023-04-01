@@ -1,0 +1,15 @@
+/*aula 01-04-03*/
+
+body, ul{
+    margin: 0px;
+    padding: 0p;
+}
+
+#menu{
+    height: 20px;
+width: 100px;
+}
+
+#menu #logo img{
+    height: 40px;
+}
